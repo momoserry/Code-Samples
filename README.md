@@ -1,2 +1,0 @@
-# Serry
-Personal Coding Samples
